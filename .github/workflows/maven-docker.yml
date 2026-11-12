@@ -38,4 +38,8 @@ jobs:
         with:
           context: .
           push: true
+<<<<<<< HEAD
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/electricity-bill-calculator:latest
+=======
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/electricity-bill-calculator:latest
+>>>>>>> 6bf451425315040177f07637e94c78bbc8d24ac5
