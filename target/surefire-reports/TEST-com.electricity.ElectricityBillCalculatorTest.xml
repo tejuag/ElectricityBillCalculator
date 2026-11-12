@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.electricity.ElectricityBillCalculatorTest" time="0.005" tests="0" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.electricity.ElectricityBillCalculatorTest" time="0.007" tests="0" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.8.v20250724-1412\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\Student-A\AppData\Local\Temp\surefire18329760463742306223\surefirebooter-20261112121852908_3.jar C:\Users\Student-A\AppData\Local\Temp\surefire18329760463742306223 2026-11-12T12-18-52_831-jvmRun1 surefire-20261112121852908_1tmp surefire_0-20261112121852908_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Student-A\AppData\Local\Temp\surefire9345844097107477136\surefirebooter-20261112131018916_3.jar C:\Users\Student-A\AppData\Local\Temp\surefire9345844097107477136 2026-11-12T13-10-18_841-jvmRun1 surefire-20261112131018916_1tmp surefire_0-20261112131018916_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Student-A\eclipse-workspace\ElectricityBillCalculator\target\test-classes;C:\Users\Student-A\eclipse-workspace\ElectricityBillCalculator\target\classes;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Student-A\AppData\Local\Temp\surefire18329760463742306223\surefirebooter-20261112121852908_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Student-A\AppData\Local\Temp\surefire9345844097107477136\surefirebooter-20261112131018916_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.8+9-LTS"/>
